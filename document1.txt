@@ -1,3 +1,4 @@
+첫번째줄 수정 1234
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
